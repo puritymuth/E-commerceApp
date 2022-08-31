@@ -6,4 +6,11 @@
     android:layout_height="match_parent"
     tools:context=".HomeActivity">
 
+    <TextView
+        android:id="@+id/back_intent"
+        android:layout_width="220dp"
+        android:layout_height="64dp"
+        android:text="click me back to home screen"
+        tools:layout_editor_absoluteX="65dp"
+        tools:layout_editor_absoluteY="74dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
